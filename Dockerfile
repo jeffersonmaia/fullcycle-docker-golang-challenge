@@ -1,5 +1,5 @@
 FROM scratch
 
-COPY fullcycle-desafio-go fullcycle-desafio-go
+COPY fullcycle-docker-golang-challenge fullcycle-docker-golang-challenge
 
-CMD ["./fullcycle-desafio-go"]
+CMD ["./fullcycle-docker-golang-challenge"]
